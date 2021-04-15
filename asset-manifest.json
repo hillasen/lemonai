@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lemonai/static/css/main.9327469a.chunk.css",
+    "main.js": "/lemonai/static/js/main.4802bc09.chunk.js",
+    "main.js.map": "/lemonai/static/js/main.4802bc09.chunk.js.map",
+    "runtime-main.js": "/lemonai/static/js/runtime-main.3b0e0494.js",
+    "runtime-main.js.map": "/lemonai/static/js/runtime-main.3b0e0494.js.map",
+    "static/js/2.880696de.chunk.js": "/lemonai/static/js/2.880696de.chunk.js",
+    "static/js/2.880696de.chunk.js.map": "/lemonai/static/js/2.880696de.chunk.js.map",
+    "static/js/3.f2b2ff0a.chunk.js": "/lemonai/static/js/3.f2b2ff0a.chunk.js",
+    "static/js/3.f2b2ff0a.chunk.js.map": "/lemonai/static/js/3.f2b2ff0a.chunk.js.map",
+    "index.html": "/lemonai/index.html",
+    "static/css/main.9327469a.chunk.css.map": "/lemonai/static/css/main.9327469a.chunk.css.map",
+    "static/js/2.880696de.chunk.js.LICENSE.txt": "/lemonai/static/js/2.880696de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b0e0494.js",
+    "static/js/2.880696de.chunk.js",
+    "static/css/main.9327469a.chunk.css",
+    "static/js/main.4802bc09.chunk.js"
+  ]
+}
